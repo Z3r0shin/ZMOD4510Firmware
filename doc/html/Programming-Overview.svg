@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="147.88762mm"
+   height="101.451mm"
+   viewBox="0 0 147.88762 101.451"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Programming-Overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5554293"
+     inkscape:cx="179.69316"
+     inkscape:cy="361.31504"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="259.564"
+       y="414.80493"
+       width="383.20956"
+       height="25.01469"
+       id="rect380499" />
+    <rect
+       x="525.74451"
+       y="373.87521"
+       width="117.24945"
+       height="25.565552"
+       id="rect370992" />
+    <rect
+       x="392.84708"
+       y="374.0405"
+       width="116.64336"
+       height="25.014572"
+       id="rect367832" />
+    <rect
+       x="259.564"
+       y="374.0405"
+       width="116.64336"
+       height="25.014572"
+       id="rect359184" />
+    <rect
+       x="126.07352"
+       y="357.40967"
+       width="116.68584"
+       height="26.002235"
+       id="rect351608" />
+    <rect
+       x="105.67407"
+       y="207.47797"
+       width="558.05005"
+       height="25.280075"
+       id="rect343434" />
+    <rect
+       x="525.0694"
+       y="290.49295"
+       width="117.6959"
+       height="66.916733"
+       id="rect326294" />
+    <rect
+       x="525.70703"
+       y="231.99312"
+       width="116.65059"
+       height="26.677441"
+       id="rect314340" />
+    <rect
+       x="392.63968"
+       y="231.99312"
+       width="116.51852"
+       height="26.222836"
+       id="rect310276" />
+    <rect
+       x="259.35657"
+       y="231.99312"
+       width="117.05681"
+       height="23.495201"
+       id="rect305786" />
+    <rect
+       x="126.07352"
+       y="231.99312"
+       width="116.68584"
+       height="20.312963"
+       id="rect296203" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452" />
+    <rect
+       x="106.3777"
+       y="105.92309"
+       width="174.14233"
+       height="16.848818"
+       id="rect146167" />
+    <rect
+       x="488.88364"
+       y="71.159874"
+       width="174.84047"
+       height="38.400063"
+       id="rect138165" />
+    <rect
+       x="297.3064"
+       y="71.159874"
+       width="174.57416"
+       height="23.398079"
+       id="rect103179" />
+    <rect
+       x="105.67407"
+       y="71.159874"
+       width="175.27216"
+       height="33.854004"
+       id="rect41705" />
+    <rect
+       x="16.820404"
+       y="110.92375"
+       width="70.46386"
+       height="106.8323"
+       id="rect29635" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAK0lEQVQImWP4//8/AwMDJskIoTABEwMDAyMjI5wPZ+PUgcV0ou1AJvHpAACX6CP0pO75qAAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign"
+         xlink:href="#EMFimage0" />
+    </pattern>
+    <image
+       id="EMFimage1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJ0lEQVQImWNgYGD4//8/JskIYWECJkZGRjgHhY1LBwO5diCTBOwAAFBdI/RmysD+AAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign"
+         xlink:href="#EMFimage1" />
+    </pattern>
+    <image
+       id="EMFimage2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKElEQVQImWP4//8/AwMDJskIoTABE5zFyMiIzMapA4vpRNgBMZ1YOwCXsiP0V0dFZgAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage2_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage2_ign"
+         xlink:href="#EMFimage2" />
+    </pattern>
+    <image
+       id="EMFimage3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKElEQVQImWP8//8/Ay4AkUMjGXHpYIJQjIyMcCEIG6cOMuyAmohhBwAjzSP0/oWTxQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage3_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage3_ign"
+         xlink:href="#EMFimage3" />
+    </pattern>
+    <image
+       id="EMFimage4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKElEQVQImWP8//8/A1YAkcAkGXHpYGJgYGBkZITz4WycOqhlByMjIwBraiP03YmqWgAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage4_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage4_ign"
+         xlink:href="#EMFimage4" />
+    </pattern>
+    <image
+       id="EMFimage5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIklEQVQImWP8//8/Ay4AkUMjGXHpYGJkZIRzUNg0tQNCAgAj3yP0cDpbUwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage5_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage5_ign"
+         xlink:href="#EMFimage5" />
+    </pattern>
+    <image
+       id="EMFimage6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJElEQVQImWP8//8/A1YAkcAkGXHpYIKzGBkZkdk4dVBuB5wEAGs0I/QvBmFFAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage6_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage6_ign"
+         xlink:href="#EMFimage6" />
+    </pattern>
+    <image
+       id="EMFimage7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJUlEQVQImWP8//8/Ay4AkUMjGXHpYIJQjIyMcCEIG6cOCu1AJgEjqSP0XAbEfgAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage7_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage7_ign"
+         xlink:href="#EMFimage7" />
+    </pattern>
+    <image
+       id="EMFimage8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKklEQVQImWP8//8/A1YAkcAkGXHpYGJgYGBkZITz4WycOiixA5lkYGAAAGuOI/TFCtjIAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage8_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage8_ign"
+         xlink:href="#EMFimage8" />
+    </pattern>
+    <image
+       id="EMFimage9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAI0lEQVQImWP8//8/Ay4AkUMjGXHpYGJkZIRzUNhUtwOZhAAAJAMj9F9iwVAAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage9_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage9_ign"
+         xlink:href="#EMFimage9" />
+    </pattern>
+    <image
+       id="EMFimage10"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJklEQVQImWP8//8/A1YAkcAkGXHpYIKzGBkZkdk4dZBnB8R0NDsAa1gj9DbpQV4AAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage10_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage10_ign"
+         xlink:href="#EMFimage10" />
+    </pattern>
+    <image
+       id="EMFimage11"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKklEQVQImWNgYGD4//8/hIQACJsRwsIO4KqQSZw6mCAUIyMjXAjCpqIdAHzvMtrDBNVhAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage11_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage11_ign"
+         xlink:href="#EMFimage11" />
+    </pattern>
+    <rect
+       x="106.3777"
+       y="105.92309"
+       width="174.14233"
+       height="16.848818"
+       id="rect146167-7" />
+    <rect
+       x="106.3777"
+       y="105.92309"
+       width="174.14233"
+       height="16.848818"
+       id="rect146167-1" />
+    <rect
+       x="105.67407"
+       y="71.159874"
+       width="175.27216"
+       height="33.854004"
+       id="rect41705-0" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-1" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="169.11839"
+       height="99.957642"
+       id="rect212452-8" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-5" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="178.38901"
+       height="80.75029"
+       id="rect212452-9" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-4" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-57" />
+    <rect
+       x="297.3064"
+       y="71.159874"
+       width="105.01951"
+       height="21.579657"
+       id="rect103179-1" />
+    <rect
+       x="126.07352"
+       y="231.99312"
+       width="116.68584"
+       height="20.312963"
+       id="rect296203-2" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-5-6" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="178.38901"
+       height="80.75029"
+       id="rect212452-9-9" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-4-6" />
+    <rect
+       x="103.5084"
+       y="109.93749"
+       width="177.10318"
+       height="73.678284"
+       id="rect212452-4-6-4" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.12718936,-0.18087538)">
+    <rect
+       style="fill:none;fill-opacity:0.666008;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect274091-9"
+       width="30.97167"
+       height="33.183132"
+       x="76.159111"
+       y="46.544445" />
+    <rect
+       style="fill:none;fill-opacity:0.666008;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect274091-9-9"
+       width="30.97167"
+       height="33.183132"
+       x="40.894627"
+       y="46.544445" />
+    <rect
+       style="fill:none;fill-opacity:0.666008;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect274091-9-3"
+       width="30.97167"
+       height="33.183132"
+       x="5.6301484"
+       y="46.544445" />
+    <rect
+       style="fill:#4da5d5;fill-opacity:0.442688;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect274091"
+       width="30.97167"
+       height="33.183132"
+       x="111.36652"
+       y="46.544445" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 76.213986,90.595852 H 107.07588 V 83.977463 H 76.213986 Z"
+       id="path10144" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40.949504,90.595852 h 30.86189 v -6.618389 h -30.86189 z"
+       id="path10152" />
+    <path
+       style="fill:#4da5d5;fill-opacity:0.442688;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 111.47848,90.595852 h 30.86189 v -6.618389 h -30.86189 z"
+       id="path10166" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.23279386,35.766861 H 46.518344 V 0.28647988 H 0.23279386 Z"
+       id="path10188" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.935514,35.766861 H 97.206486 V 0.28647988 H 50.935514 Z"
+       id="path10202" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.211209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.62366,35.766861 h 46.28555 V 0.28647988 h -46.28555 z"
+       id="path10210" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.949504,101.53188 H 142.34037 V 94.913402 H 40.949504 Z"
+       id="path10248" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.23279386,101.51821 H 147.90921 V 83.977463 H 0.23279386 Z"
+       id="path10474" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.23279386,79.725223 H 147.90921 V 40.058143 H 0.23279386 Z"
+       id="path10500" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.375569,35.890594 2.63864,1.09336 h -1.76395 v 1.882011 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.882011 h -1.74937 z"
+       id="path10464-3"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.071006,35.890594 2.63864,1.09336 h -1.76395 v 1.882011 h 1.76395 l -2.63864,1.09336 -2.638648,-1.09336 h 1.749378 v -1.882011 h -1.749378 z"
+       id="path10464-3-1"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.831214,16.19366 -1.09336,2.63864 v -1.76395 h -2.009587 v 1.76395 l -1.093357,-2.63864 1.093357,-2.638644 v 1.749374 h 2.009587 v -1.749374 z"
+       id="path10464-3-1-8"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.50844,16.19366 -1.09336,2.63864 v -1.76395 h -2.009594 v 1.76395 l -1.09335,-2.63864 1.09335,-2.638644 v 1.749374 h 2.009594 v -1.749374 z"
+       id="path10464-3-1-8-3"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.380464,79.818817 2.63864,1.09336 h -1.76395 v 1.882011 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.882011 h -1.74937 z"
+       id="path10464-3-14"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.644946,79.818817 2.63864,1.09336 h -1.76395 v 1.882011 h 1.76395 l -2.63864,1.093357 -2.63864,-1.093357 h 1.74937 v -1.882011 h -1.74937 z"
+       id="path10464-3-3"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 127.63105,79.818817 2.63864,1.09336 h -1.76395 v 1.882011 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.882011 h -1.74937 z"
+       id="path10464-3-7"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text29633"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect29635)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-17.482904)"
+       id="text41703"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect41705)"
+       x="72.909966"
+       y="0"><tspan
+         x="128.18848"
+         y="81.969209"
+         id="tspan10373">ZMOD4xxx Application
+</tspan><tspan
+         x="111.96094"
+         y="96.969209"
+         id="tspan10375">Programming Interface (API)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,73.420696,-17.482904)"
+       id="text41703-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect41705-0)"
+       x="72.909966"
+       y="0"><tspan
+         x="141.62109"
+         y="81.969209"
+         id="tspan10377">Gas Measurement
+</tspan><tspan
+         x="137.96777"
+         y="96.969209"
+         id="tspan10379">Algorithm Libraries</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-15.895404)"
+       id="text103177"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect103179)"
+       x="64.676521"
+       y="0"><tspan
+         x="319.24121"
+         y="81.969209"
+         id="tspan10381">Programming Example</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.515464,-19.180778)"
+       id="text212450"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10385"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10383">src/sensors:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10389"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10387">    zmod4xxx.c
+</tspan></tspan><tspan
+         x="103.50781"
+         y="146.21233"
+         id="tspan10393"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10391">    zmod4xxx.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="159.5457"
+         id="tspan10397"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10395">    zmod4xxx_types.h</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,25.095568,-19.738885)"
+       id="text212450-6"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-1)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10401"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10399">src:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10405"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10403">    example.c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,75.776706,-19.180778)"
+       id="text212450-5"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-8)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10409"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10407">src/algos:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10413"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10411">    [ALGO].h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="146.21233"
+         id="tspan10417"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10415">    [SENSOR]_config_[ALGO].h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="159.5457"
+         id="tspan10421"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10419">    zmod4xxx_cleaning.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="172.87907"
+         id="tspan10425"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10423">lib/[TARGET]:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="186.21245"
+         id="tspan10429"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10427">    lib_[ALGO].*
+</tspan></tspan><tspan
+         x="103.50781"
+         y="199.54582"
+         id="tspan10433"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10431">    lib_zmod4xxx_cleaning.*</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.991374,24.346372)"
+       id="text212450-8"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-5)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10437"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10435">src/hal:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10441"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10439">    hal.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="146.21233"
+         id="tspan10445"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10443">    hal.c
+</tspan></tspan><tspan
+         x="103.50781"
+         y="159.5457"
+         id="tspan10449"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10447">    zmod4xxx_hal.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="172.87907"
+         id="tspan10453"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10451">    zmod4xxx_hal.c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.219959,24.346372)"
+       id="text212450-7"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-9)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10457"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10455">src/hal/comboard:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10461"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10459">    comboard.c
+</tspan></tspan><tspan
+         x="103.50781"
+         y="146.21233"
+         id="tspan10465"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10463">    escom.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="159.5457"
+         id="tspan10469"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10467">    escom.c
+</tspan></tspan><tspan
+         x="103.50781"
+         y="172.87907"
+         id="tspan10473"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10471">    hicom.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="186.21245"
+         id="tspan10477"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10475">    hicom.c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,50.516352,24.346372)"
+       id="text212450-2"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-4)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10481"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10479">src/hal/raspi:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10485"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10483">    rpi.h
+</tspan></tspan><tspan
+         x="103.50781"
+         y="146.21233"
+         id="tspan10489"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10487">    rpi.c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,85.860086,24.346372)"
+       id="text212450-64"
+       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect212452-57)"><tspan
+         x="103.50781"
+         y="119.54558"
+         id="tspan10493"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10491">src/hal/custom:
+</tspan></tspan><tspan
+         x="103.50781"
+         y="132.87895"
+         id="tspan10497"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan10495">    template.c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.778735)"
+       id="text296201"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect296203)"
+       x="25.30957"
+       y="0"><tspan
+         x="158.41895"
+         y="242.80124"
+         id="tspan10499">Common</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.778735)"
+       id="text305784"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect305786)"
+       x="11.888672"
+       y="0"><tspan
+         x="305.54883"
+         y="242.80124"
+         id="tspan10501">EVK</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.778735)"
+       id="text310274"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect310276)"
+       x="36.164062"
+       y="0"><tspan
+         x="413.88281"
+         y="242.80124"
+         id="tspan10503">Raspberry Pi</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.778735)"
+       id="text314338"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect314340)"
+       x="52.245117"
+       y="0"><tspan
+         x="531.35059"
+         y="242.80124"
+         id="tspan10505">Customer Specific</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.778735)"
+       id="text326292"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect326294);fill:#000000"
+       x="51.051422"
+       y="0"><tspan
+         x="548.06108"
+         y="300.10027"
+         id="tspan10507">This has to be </tspan><tspan
+         x="535.91"
+         y="313.43364"
+         id="tspan10509">implemented when </tspan><tspan
+         x="533.54802"
+         y="326.76701"
+         id="tspan10511">porting to customer </tspan><tspan
+         x="558.72258"
+         y="340.10039"
+         id="tspan10513">hardware.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.610411)"
+       id="text343432"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect343434)"
+       x="97.048828"
+       y="0"><tspan
+         x="286.90039"
+         y="218.28757"
+         id="tspan10515">Hardware Abstraction Layer (HAL)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-3.5096932)"
+       id="text351606"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect351608)"
+       x="26.666754"
+       y="0"><tspan
+         x="157.07129"
+         y="368.21921"
+         id="tspan10517">Hardware</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.401867)"
+       id="text359182"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect359184)"
+       x="11.888672"
+       y="0"><tspan
+         x="305.54883"
+         y="384.85007"
+         id="tspan10519">EVK</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.735955)"
+       id="text367830"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect367832)"
+       x="36.164062"
+       y="0"><tspan
+         x="414.15234"
+         y="384.85007"
+         id="tspan10521">Raspberry Pi</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.357942)"
+       id="text370990"
+       style="font-weight:bold;font-size:11.6px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect370992)"
+       x="56.4939"
+       y="0"><tspan
+         x="529.25215"
+         y="384.32375"
+         id="tspan10523">Customer Hardware</tspan></text>
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.400482,90.718782 2.63864,1.09336 h -1.76395 v 1.88201 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.88201 h -1.74937 z"
+       id="path10464-3-14-6"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.664966,90.718782 2.63864,1.09336 h -1.76395 v 1.88201 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.88201 h -1.74937 z"
+       id="path10464-3-3-8"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#999999;fill-opacity:0.34585;stroke:#000000;stroke-width:0.0728906px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 127.65107,90.718782 2.63864,1.09336 h -1.76395 v 1.88201 h 1.76395 l -2.63864,1.09336 -2.63864,-1.09336 h 1.74937 v -1.88201 h -1.74937 z"
+       id="path10464-3-7-2"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-27.726804,-13.252074)"
+       id="text380497"
+       style="font-weight:bold;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect380499)"
+       x="53.030273"
+       y="0"><tspan
+         x="398.15039"
+         y="425.61374"
+         id="tspan10525">ZMOD4xxx Sensor</tspan></text>
+  </g>
+</svg>
