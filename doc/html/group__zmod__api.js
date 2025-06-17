@@ -1,0 +1,66 @@
+var group__zmod__api =
+[
+    [ "zmod4xxx.h", "zmod4xxx_8h.html", null ],
+    [ "zmod4xxx_types.h", "zmod4xxx__types_8h.html", null ],
+    [ "zmod4xxx_conf_str", "group__zmod__api.html#structzmod4xxx__conf__str", [
+      [ "addr", "group__zmod__api.html#af5105c72a61e60d3b44670de20e0c3fb", null ],
+      [ "data_buf", "group__zmod__api.html#aa0a605919822eac2dd0371fb32f4e80a", null ],
+      [ "len", "group__zmod__api.html#a5723e60ffd628510c699eddbce90be23", null ]
+    ] ],
+    [ "zmod4xxx_conf", "group__zmod__api.html#structzmod4xxx__conf", [
+      [ "d", "group__zmod__api.html#a1998eeb50ab87adf6ee8442eaa3481c1", null ],
+      [ "h", "group__zmod__api.html#a970879a52d828d7bf45b92868ff9cf76", null ],
+      [ "m", "group__zmod__api.html#a2a83fe4b4b83837f04f85abca8b28014", null ],
+      [ "prod_data_len", "group__zmod__api.html#ab48349dd5df8fab996a3865a9e3f5eae", null ],
+      [ "r", "group__zmod__api.html#aaa781cbe45dabcb3cc6ff5fbe4f327ec", null ],
+      [ "s", "group__zmod__api.html#ab5c63b301d149b1535398021c5373162", null ],
+      [ "start", "group__zmod__api.html#a7dc2499e4825a78e484bb388ab29dc1d", null ]
+    ] ],
+    [ "zmod4xxx_dev_t", "group__zmod__api.html#structzmod4xxx__dev__t", [
+      [ "config", "group__zmod__api.html#a2bf47125cbe07cfacbd5e36e8357e42b", null ],
+      [ "delay_ms", "group__zmod__api.html#ad9fe36c13e8cf7fc1625057c01a5fa4a", null ],
+      [ "i2c_addr", "group__zmod__api.html#a3590df8c0f943a671fd63d696a55a50c", null ],
+      [ "init_conf", "group__zmod__api.html#a951fb41d8391613fae70be0f840b68ea", null ],
+      [ "meas_conf", "group__zmod__api.html#a9bb0d7ddc7390ff39b59c7c0093a3b9d", null ],
+      [ "mox_er", "group__zmod__api.html#ac22bcd15f9d17de41689b89c649707a2", null ],
+      [ "mox_lr", "group__zmod__api.html#a5ae04eed9907d0221989d559360bdf28", null ],
+      [ "pid", "group__zmod__api.html#a9089e9c40db82122a499b9620e2cb54e", null ],
+      [ "prod_data", "group__zmod__api.html#a1d6ded17b5511b0f2d1bac84ecebfb3b", null ],
+      [ "read", "group__zmod__api.html#a652776aec5ee7d7efaec37d5ee167b6e", null ],
+      [ "write", "group__zmod__api.html#a6a155efa50b5d869c8ac64b5849e20c0", null ]
+    ] ],
+    [ "STATUS_ACCESS_CONFLICT_MASK", "group__zmod__api.html#ga333f31e378215c4d4743eae969f2c9f1", null ],
+    [ "STATUS_ALARM_MASK", "group__zmod__api.html#ga117d23bb7cd3709d4f8ae4024f4e970f", null ],
+    [ "STATUS_LAST_SEQ_STEP_MASK", "group__zmod__api.html#gaf9390a1aded1247b89a92a7c4a41aefd", null ],
+    [ "STATUS_POR_EVENT_MASK", "group__zmod__api.html#ga3a2df03808f07063abb86b7db3fbdc17", null ],
+    [ "STATUS_SEQUENCER_RUNNING_MASK", "group__zmod__api.html#ga590dfef472e4721c26be146b81febe7b", null ],
+    [ "STATUS_SLEEP_TIMER_ENABLED_MASK", "group__zmod__api.html#ga0e293036073fa7271613c9861affb96e", null ],
+    [ "zmod4xxx_delay_ptr_p", "group__zmod__api.html#gae1d4ae3efda6f82d6732dadad6466985", null ],
+    [ "zmod4xxx_i2c_ptr_t", "group__zmod__api.html#ga4103dabaab7448dea9f1d2210d6e8ec7", null ],
+    [ "zmod4xxx_err", "group__zmod__api.html#gafed94dc31e04d91a9d3b8fc79579e781", [
+      [ "ERROR_INIT_OUT_OF_RANGE", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781a827da28a507c6e42fbe6b07c7184791f", null ],
+      [ "ERROR_GAS_TIMEOUT", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781ad6e66c233a1cb7c668cd83d4e65eb089", null ],
+      [ "ERROR_I2C", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781ae90133f9b0ff010482058f646265779d", null ],
+      [ "ERROR_SENSOR_UNSUPPORTED", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781a00fbb1cf988c8c9ad957e26d1a80d318", null ],
+      [ "ERROR_CONFIG_MISSING", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781a7e039c9e5f6c7dbef20899951f5fef67", null ],
+      [ "ERROR_ACCESS_CONFLICT", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781af8f5af0b13cb4756144bcf2d35a60f9e", null ],
+      [ "ERROR_POR_EVENT", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781a3f367fb3d151a430ebad02734aa46848", null ],
+      [ "ERROR_CLEANING", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781ac842c29561dfa7da7f2b01917a396ce2", null ],
+      [ "ERROR_NULL_PTR", "group__zmod__api.html#ggafed94dc31e04d91a9d3b8fc79579e781a478d8f1dcfc70bd463fcaa29c3b0862a", null ]
+    ] ],
+    [ "zmod4xxx_calc_factor", "group__zmod__api.html#gaae1600627ac21f2e6d62da60a0cc6898", null ],
+    [ "zmod4xxx_calc_rmox", "group__zmod__api.html#ga3a349ca2b7403806efcd725e6aca9b6b", null ],
+    [ "zmod4xxx_calc_single_rmox", "group__zmod__api.html#gaecbedc63181379a7a4c4b8e4e1b400bc", null ],
+    [ "zmod4xxx_check_error_event", "group__zmod__api.html#gadb95096d7a592aef6186754a5dc87728", null ],
+    [ "zmod4xxx_init_measurement", "group__zmod__api.html#ga2d65949e2381af73964a0805c2224bc8", null ],
+    [ "zmod4xxx_init_sensor", "group__zmod__api.html#ga13172a7115ccd03dcd2a11895e2dd6e6", null ],
+    [ "zmod4xxx_null_ptr_check", "group__zmod__api.html#gaada37845aea84a93948b26b03d13e165", null ],
+    [ "zmod4xxx_prepare_sensor", "group__zmod__api.html#ga16a574445f2b106475274b6c873b119b", null ],
+    [ "zmod4xxx_read_adc_result", "group__zmod__api.html#gac143f607d56aab4577ccd5783232796e", null ],
+    [ "zmod4xxx_read_rmox", "group__zmod__api.html#ga1036be12ddd6bf0cf2439fee3d8bede0", null ],
+    [ "zmod4xxx_read_sensor_info", "group__zmod__api.html#gac70895a66cf8003970727617a77672af", null ],
+    [ "zmod4xxx_read_status", "group__zmod__api.html#ga3c1e4f08d1a8fc96823a00e568ca249c", null ],
+    [ "zmod4xxx_read_tracking_number", "group__zmod__api.html#ga6372821c8a52a99087e4473a1184bcb8", null ],
+    [ "zmod4xxx_start_measurement", "group__zmod__api.html#ga43b66ed122b428fc9de5008b8f61d8f8", null ],
+    [ "zmod4xxx_start_measurement_at", "group__zmod__api.html#gae3394bdfa58d45efb492a04f3185992e", null ]
+];
